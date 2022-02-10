@@ -20,3 +20,14 @@ p {
   border-width:20px;
   padding:10px;
 }
+
+.poemLine {
+  width:50%;
+}
+
+.notPoemLine {
+  width:10%;
+  font-size:48px;
+}
+
+
