@@ -10,4 +10,13 @@ h2 {
   font-size:48px;
 }
 
-
+p {
+  color:#dcfcfc;
+  font-family:verdana;
+  font-size:5px;
+  line-height:2em;
+  background-color:#ff5e00;
+  border-style:outset;
+  border-width:20px;
+  padding:10px;
+}
