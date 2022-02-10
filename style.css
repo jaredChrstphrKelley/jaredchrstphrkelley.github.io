@@ -21,6 +21,12 @@ p {
   padding:10px;
 }
 
+img {
+  width:350px;
+  border-style:inset;
+  border-width:15px;
+}
+
 .poemLine {
   width:50%;
 }
